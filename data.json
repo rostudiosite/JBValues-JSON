@@ -465,9 +465,9 @@
    },
    {
       "Name":"tinytoy",
-      "Value":"0",
-      "Value2":"0",
-      "ValueHistory":"0",
+      "Value":"750,000k",
+      "Value2":"750k",
+      "ValueHistory":"750000",
       "ValueHistoryDate":"9/14/22",
       "Demand":"unknown",
       "Price":"100,000",
