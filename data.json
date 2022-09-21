@@ -194,7 +194,7 @@
     {
        "Name":"steed",
        "Value":"210,000",
-       "Value2":"210k",
+       "Value2":"210K",
        "ValueHistory":"210000",
        "ValueHistoryDate":"7/12/22",
        "Demand":"4/10",
@@ -466,7 +466,7 @@
    {
       "Name":"tinytoy",
       "Value":"750,000k",
-      "Value2":"750k",
+      "Value2":"750K",
       "ValueHistory":"750000",
       "ValueHistoryDate":"9/14/22",
       "Demand":"unknown",
